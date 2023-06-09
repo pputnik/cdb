@@ -1,3 +1,13 @@
+# docker-compose.yml is generated every time run-installer-docker.sh is launched
+.docker-compose.yml
+
+# Idea IDE
+/.idea
+
+.DS_Store
+/.DS_Store
+
+# =============== python stuff ===============
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
